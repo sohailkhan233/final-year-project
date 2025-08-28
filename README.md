@@ -116,5 +116,5 @@ Choose a license (e.g., MIT) if you intend to share/reuse the code.
 
 Maintainer
 ----------
-Author: <Your Sohail Ahmad Khan>  
+Author: <Your SohailAhmadKhan>  
 Contact: <sohail.khan12480@gmail.com>
