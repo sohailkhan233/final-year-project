@@ -108,7 +108,7 @@ If you use CICIDS2017 data, please cite the original dataset/source appropriatel
 Repository Link (for FPR Front Page)
 ------------------------------------
 Add your GitHub URL here (replace with your repo link):  
-`https://github.com/sohailkhan233/final-year-project/<your-username>/<your-repo>`
+`https://github.com/sohailkhan233/final-year-project`
 
 License
 -------
